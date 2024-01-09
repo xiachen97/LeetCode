@@ -17,7 +17,7 @@ public class Q186 {
     public static void main(String[] args){
         char[] s = {'t','h','e',' ', 's','k','y', ' ','i','s',' ', 'b','l','u','e'};
         reverseAll(s,0,s.length-1);
-for(char c:s){
+        for(char c:s){
             System.out.print(c);
         }
         reverseEachWord(s);
