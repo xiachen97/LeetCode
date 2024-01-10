@@ -1,7 +1,7 @@
 /*Note: 
 1. use StringBuilder();
 */
-package Array;
+package D1;
 public class Q1768 {
     public static void main(String[] args){
         String w1 = "abc";

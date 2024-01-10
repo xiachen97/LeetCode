@@ -3,7 +3,7 @@
 2. use split to change string to array
 */
 
-package Array;
+package D1;
 
 public class Q151 {
     public static void main(String[] args){

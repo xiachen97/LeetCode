@@ -3,7 +3,7 @@
 2. i is used to track the position of non-zero elements.
 */
 
-package Array;
+package D1;
 
 public class Q283 {
     public static void main(String[] args){

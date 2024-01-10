@@ -12,7 +12,7 @@ Follow up: Could you do itin-placewithout allocating extra space?
 step1: Two Pointers reverse all：eulb si yks eht
 step2: reverse each word：blue is sky the
 */
-package Array;
+package D1;
 public class Q186 {
     public static void main(String[] args){
         char[] s = {'t','h','e',' ', 's','k','y', ' ','i','s',' ', 'b','l','u','e'};

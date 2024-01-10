@@ -1,4 +1,4 @@
-package Array;
+package D1;
 
 public class StringBuilderBuffer {
     public static void main(String[] args){
