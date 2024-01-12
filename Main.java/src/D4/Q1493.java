@@ -1,5 +1,6 @@
 package D4;
-
+//Q1493 simliar => Q1004, this is flip k times(let 0->1) when nums[i]=0 to get the longestSubarray about 1's
+//Q1493 is delete one 0 to get the longestSubarray about 1's == flip 1 times, then -1
 public class Q1493 {
     public static void main(String[] args) {
         int[] nums = {1,1,0,1};
