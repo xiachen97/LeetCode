@@ -5,7 +5,7 @@ import java.util.HashSet;
 
 public class Q1207 {
     public static void main(String[] args) {
-        int[] arr={1,2,2,1,1,3,2};
+        int[] arr={1,2,1,1,3,2};
         System.out.println(uniqueOccurrences(arr));
     }
     public static boolean uniqueOccurrences(int[] arr) {
