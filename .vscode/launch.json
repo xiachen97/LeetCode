@@ -1,0 +1,427 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "subset",
+      "request": "launch",
+      "mainClass": "D16.subset",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q46",
+      "request": "launch",
+      "mainClass": "D16.Q46",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q437",
+      "request": "launch",
+      "mainClass": "D15.Q437",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Q151",
+      "request": "launch",
+      "mainClass": "D1.Q151",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1768",
+      "request": "launch",
+      "mainClass": "D1.Q1768",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q186",
+      "request": "launch",
+      "mainClass": "D1.Q186",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q283",
+      "request": "launch",
+      "mainClass": "D1.Q283",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilderBuffer",
+      "request": "launch",
+      "mainClass": "D1.StringBuilderBuffer",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2095",
+      "request": "launch",
+      "mainClass": "D10.Q2095",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q649",
+      "request": "launch",
+      "mainClass": "D10.Q649",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q832",
+      "request": "launch",
+      "mainClass": "D10.Q832",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1290",
+      "request": "launch",
+      "mainClass": "D11.Q1290",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2418",
+      "request": "launch",
+      "mainClass": "D11.Q2418",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2500",
+      "request": "launch",
+      "mainClass": "D11.Q2500",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2130",
+      "request": "launch",
+      "mainClass": "D12.Q2130",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2089",
+      "request": "launch",
+      "mainClass": "D13.Q2089",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q905",
+      "request": "launch",
+      "mainClass": "D13.Q905",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q104",
+      "request": "launch",
+      "mainClass": "D14.Q104",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1448",
+      "request": "launch",
+      "mainClass": "D15.Q1448",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "GreatCommonDivisor",
+      "request": "launch",
+      "mainClass": "D2.GreatCommonDivisor",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1071",
+      "request": "launch",
+      "mainClass": "D2.Q1071",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q11",
+      "request": "launch",
+      "mainClass": "D2.Q11",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q238",
+      "request": "launch",
+      "mainClass": "D2.Q238",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q392",
+      "request": "launch",
+      "mainClass": "D2.Q392",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1431",
+      "request": "launch",
+      "mainClass": "D3.Q1431",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1456",
+      "request": "launch",
+      "mainClass": "D3.Q1456",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1679",
+      "request": "launch",
+      "mainClass": "D3.Q1679",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q643",
+      "request": "launch",
+      "mainClass": "D3.Q643",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "decimalFormat",
+      "request": "launch",
+      "mainClass": "D3.decimalFormat",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1004",
+      "request": "launch",
+      "mainClass": "D4.Q1004",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1493",
+      "request": "launch",
+      "mainClass": "D4.Q1493",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q345",
+      "request": "launch",
+      "mainClass": "D4.Q345",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q605",
+      "request": "launch",
+      "mainClass": "D4.Q605",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1207",
+      "request": "launch",
+      "mainClass": "D5.Q1207",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1732",
+      "request": "launch",
+      "mainClass": "D5.Q1732",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q560",
+      "request": "launch",
+      "mainClass": "D5.Q560",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q724",
+      "request": "launch",
+      "mainClass": "D5.Q724",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1657",
+      "request": "launch",
+      "mainClass": "D6.Q1657",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2215",
+      "request": "launch",
+      "mainClass": "D6.Q2215",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2352",
+      "request": "launch",
+      "mainClass": "D6.Q2352",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2390",
+      "request": "launch",
+      "mainClass": "D6.Q2390",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "stack",
+      "request": "launch",
+      "mainClass": "D6.stack",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "twoDem",
+      "request": "launch",
+      "mainClass": "D6.twoDem",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1021",
+      "request": "launch",
+      "mainClass": "D7.Q1021",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q334",
+      "request": "launch",
+      "mainClass": "D7.Q334",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q735",
+      "request": "launch",
+      "mainClass": "D7.Q735",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q933",
+      "request": "launch",
+      "mainClass": "D7.Q933",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1544",
+      "request": "launch",
+      "mainClass": "D8.Q1544",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1614",
+      "request": "launch",
+      "mainClass": "D8.Q1614",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q394",
+      "request": "launch",
+      "mainClass": "D8.Q394",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q443",
+      "request": "launch",
+      "mainClass": "D8.Q443",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1652",
+      "request": "launch",
+      "mainClass": "D9.Q1652",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2535",
+      "request": "launch",
+      "mainClass": "D9.Q2535",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2610",
+      "request": "launch",
+      "mainClass": "D9.Q2610",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q771",
+      "request": "launch",
+      "mainClass": "D9.Q771",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q104(1)",
+      "request": "launch",
+      "mainClass": "rev1.Q104",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q1290(1)",
+      "request": "launch",
+      "mainClass": "rev1.Q1290",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2418(1)",
+      "request": "launch",
+      "mainClass": "rev1.Q2418",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q2500(1)",
+      "request": "launch",
+      "mainClass": "rev1.Q2500",
+      "projectName": "LeetCode_7d88d682"
+    }
+  ]
+}
