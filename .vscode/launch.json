@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Q21",
+      "request": "launch",
+      "mainClass": "D20.Q21",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
+      "name": "Q283",
+      "request": "launch",
+      "mainClass": "rev1.Q283",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
       "name": "Q448",
       "request": "launch",
       "mainClass": "D19.Q448",
