@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Q160",
+      "request": "launch",
+      "mainClass": "D24.Q160",
+      "projectName": "LeetCode_7d88d682"
+    },
+    {
+      "type": "java",
       "name": "Q206",
       "request": "launch",
       "mainClass": "D23.Q206",
